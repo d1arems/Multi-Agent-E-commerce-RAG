@@ -3,7 +3,6 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock%20AgentCore-orange.svg)](https://aws.amazon.com/bedrock/)
 [![DynamoDB](https://img.shields.io/badge/State-Amazon%20DynamoDB-blue.svg)](https://aws.amazon.com/dynamodb/)
-[![Watch Demo](https://img.shields.io/badge/Demo-2--Minute%20Loom%20Walkthrough-9cf?logo=loom)](#live-demonstration)
 
 A production-grade multi-agent customer support system built with the [Strands Agents SDK](https://github.com/strands-agents/sdk-python) and Amazon Bedrock AgentCore. The system automatically routes customer support requests to specialist agents, retrieves grounded knowledge via **parallel multi-agent RAG**, enforces enterprise safety guardrails, and maintains shared workflow state across agents - all observable through CloudWatch and X-Ray.
 
